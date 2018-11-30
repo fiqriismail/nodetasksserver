@@ -12,6 +12,12 @@ What you need:
  - MongoDB Server  
  - REST Client to test (eg: POSTMAN)
 
+**To test this Application** 
+
+    npm install 
+    npm start 
+
+
 **Endpoints:** 
 
 | Method | Endpoint  |Description|
