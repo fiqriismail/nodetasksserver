@@ -13,6 +13,7 @@ What you need:
  - REST Client to test (eg: POSTMAN)
 
 **Endpoints:** 
+
 | Method | Endpoint  |Description|
 |--|--|--|
 | GET | http://localhost:3000/tasks/ |Lists Available Tasks |
