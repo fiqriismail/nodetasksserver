@@ -1,4 +1,7 @@
 ## Simple NodeJS Rest Server
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/24cc3b0a98b64687b1bbfb5834c8518a)](https://app.codacy.com/app/fiqriismail/nodetasksserver?utm_source=github.com&utm_medium=referral&utm_content=fiqriismail/nodetasksserver&utm_campaign=Badge_Grade_Dashboard)
+
 This is to demonstrate a simple NodeJS REST Server which has 
 
  - Add Task
